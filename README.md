@@ -1,3 +1,7 @@
+
+Machine Learning Approach towards Cyberbullying Detection on Twitter
+--------------------------------------------------------------------
+
 Cyberbullying detection using various pre-processing, vectorization and machine learning algorithms.
 
 Pre-processing methods - Stemming, Lemmatization, Removal of stop words, Removal of words occuring once
