@@ -25,6 +25,8 @@ Various Experimental Setups
 
 5) BERT with CNN
 
+Best model is found to be BERT with CNN. An illustration of the model is developed in https://github.com/amalalexa/Cyberbullying_Web_Application
+
 
 Datasets included
 ------------------
